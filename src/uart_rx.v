@@ -117,5 +117,5 @@ module uart_rx
       default: next_state  = IDLE;
     endcase
   end
-
+  
 endmodule
